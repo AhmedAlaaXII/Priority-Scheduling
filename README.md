@@ -1,7 +1,7 @@
 # Priority-Scheduling
 Priority Scheduling , Small Simulation To The Algorithm using JAVA
 ## Explanation of the algorithm and the code
-- Priority scheduling is most commom algorithm in CPU scheduling 
+- Priority scheduling is most common algorithm in CPU scheduling 
 - Priority scheduling give priority to the process that have high priority (less priority number)
 - the code handle almost all cases 
 - the first input are number of processes and the context switching value (that`s Fixed Value , the time that the CPU to take to switch to other process)
